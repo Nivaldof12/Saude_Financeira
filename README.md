@@ -6,7 +6,7 @@
 Crie um programa contendo uma função que, dados um valor de renda mensal total, gastos totais com moradia, gastos totais com educação e gastos totais com transporte, faça um diagnóstico da saúde financeira do usuário, com base nos valores percentuais acima expostos, informando qual é o percentual da renda mensal total comprometido por cada custo. 
 
 Se o gasto estiver dentro do percentual recomendado, informe ainda que "Seus gastos estão dentro da margem recomendada."
-Caso contrário, informe: "Portanto, idealmente, o máximo de sua renda comprometida com {tipo} deveria ser de R$ {valor_max}"
+Caso contrário, informe: "Portanto, idealmente, o máximo de sua renda comprometida com {} deveria ser de R$ {}"
 
 Exemplo de saída do programa:
 
